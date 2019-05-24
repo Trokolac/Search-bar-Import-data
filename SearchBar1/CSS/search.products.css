@@ -1,0 +1,22 @@
+.bar{
+    left: 25%;
+}
+.form-control:focus {
+    border-color: #28a745;
+    box-shadow: inset 0 0px 0px #28a745, 0 0px 7px #28a745;
+}
+hr{
+    display: block;
+    height: 0.5px;
+    border: 0;
+    border-top: 0.2px solid #28a745;
+    margin: 1em 0;
+    padding: 0;
+}
+.footer {
+    color: rgb(148, 148, 148);
+    position: absolute;
+    bottom: 0px;
+    right: 20px;
+    font-size: 11px;
+}
